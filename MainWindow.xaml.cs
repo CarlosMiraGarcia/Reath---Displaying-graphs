@@ -20,6 +20,7 @@ namespace ReathUIv0._1
     /// </summary>
     public partial class MainWindow : Window
     {
+
         public MainWindow()
         {
             InitializeComponent();
